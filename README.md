@@ -1,10 +1,10 @@
-# Welcome to my GitHub Repo
+# Welcome to Chocolate Explosions GitHub Repo
 
 - 👋 Hi, I’m @ch0colate-3xplosion
 - 👀 I’m interested in ... Cyber Security, System Administration
 - 🌱 I’m currently learning ... OSCP
 - 💞️ I’m looking to collaborate on ... Red Team, OSCP
-- 📫 How to reach me ... via email: chocolateserver.com
+- 📫 How to reach me ... via email: chocolateserver@gmail.com
 
 <!---
 ch0colate-3xplosion/ch0colate-3xplosion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
