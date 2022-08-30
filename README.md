@@ -1,9 +1,9 @@
 # Welcome to Chocolate Explosions GitHub Repo
 
 - 👋 Hi, I’m @ch0colate-3xplosion
-- 👀 I’m interested in ... Cyber Security, System Administration
-- 🌱 I’m currently learning ... OSCP
-- 💞️ I’m looking to collaborate on ... Red Team, OSCP
+- 👀 I’m interested in ... Cyber Security, System Administration, AI
+- 🌱 I’m currently learning ... OSCP, eCCPTv2, Coding Projects, System Administration
+- 💞️ I’m looking to collaborate on ... Red Team, OSCP, AI, Automation Scripts, System Administrator, MPI Clusters, Raspberry Pi
 - 📫 How to reach me ... via email: chocolateserver@gmail.com
 
 <!---
