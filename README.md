@@ -15,13 +15,13 @@ My website is: https://www.chocolateexplosion.com
 
 ## Current Projects
 - [ ] Ch0c0DiscordBot                           ![coverage](https://img.shields.io/badge/Python-0%25-blue)
-- [ ] Ch0c0repons3-email                        ![coverage](https://img.shields.io/badge/Python-30%25-blue)
+- [ ] Ch0c0repons3-email                        ![coverage](https://img.shields.io/badge/Python-30%25-yellowgreen)
 - [ ] Linux-Autoupdate-Autoupgrade              ![coverage](https://img.shields.io/badge/BashScript-80%25-green)
 - [ ] OS-Hardening-Script                       ![coverage](https://img.shields.io/badge/Bashscript-0%25-blueviolet) ![coverage](https://img.shields.io/badge/PowerShell-0%25-blueviolet)
 - [ ] ch0colate-3xplosion                       ![coverage](https://img.shields.io/badge/Bashscript-0%25-9cf)
 - [ ] Bypasses AV/EDR/XDR/MDR/EPP               ![coverage](https://img.shields.io/badge/Bashscript-0%25-red)
 - [ ] ChocolatesWebApplication                  ![coverage](https://img.shields.io/badge/Bashscript-0%25-informational)
-- [ ] Ch0colatem3                               ![coverage](https://img.shields.io/badge/Bashscript-0%25-yellowgreen)
+- [ ] Ch0colatem3                               ![coverage](https://img.shields.io/badge/Bashscript-0%25-yellow)
 - [ ] VM-Automation-Proxmox-Terraform-Scripts   ![coverage](https://img.shields.io/badge/Bashscript-0%25-brightgreen)
 - [ ] chocosensuio                              ![coverage](https://img.shields.io/badge/json-0%25-success) ![coverage](https://img.shields.io/badge/clang-0%25-success)
 
