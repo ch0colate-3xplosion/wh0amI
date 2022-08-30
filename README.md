@@ -14,12 +14,12 @@ You can click the Preview link to take a look at your changes.
 My website is: https://www.chocolateexplosion.com
 
 Current Projects
-[ ] Ch0c0DiscordBot
-[ ] Ch0c0repons3-email 
-[ ] Linux-Autoupdate-Autoupgrade 
-[ ] OS-Hardening-Script 
-[ ] ch0colate-3xplosion 
-[ ] Bypasses AV/EDR/XDR/MDR/EPP
-[ ] ChocolatesWebApplication 
-[ ] Ch0colatem3 
-[ ] VM-Automation-Proxmox-Terraform-Scripts 
+- [ ] Ch0c0DiscordBot
+- [ ] Ch0c0repons3-email 
+- [ ] Linux-Autoupdate-Autoupgrade 
+- [ ] OS-Hardening-Script 
+- [ ] ch0colate-3xplosion 
+- [ ] Bypasses AV/EDR/XDR/MDR/EPP
+- [ ] ChocolatesWebApplication 
+- [ ] Ch0colatem3 
+- [ ] VM-Automation-Proxmox-Terraform-Scripts 
