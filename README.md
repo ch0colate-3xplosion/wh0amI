@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 My website is: https://www.chocolateexplosion.com
 
-Current Projects
+## Current Projects
 - [ ] Ch0c0DiscordBot                           ![coverage](https://img.shields.io/badge/Python-0%25-blue)
 - [ ] Ch0c0repons3-email                        ![coverage](https://img.shields.io/badge/Python-30%25-blue)
 - [ ] Linux-Autoupdate-Autoupgrade              ![coverage](https://img.shields.io/badge/BashScript-80%25-green)
