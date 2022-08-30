@@ -23,7 +23,7 @@ My website is: https://www.chocolateexplosion.com
 - [ ] ChocolatesWebApplication                  ![coverage](https://img.shields.io/badge/Bashscript-0%25-informational)
 - [ ] Ch0colatem3                               ![coverage](https://img.shields.io/badge/Bashscript-0%25-yellowgreen)
 - [ ] VM-Automation-Proxmox-Terraform-Scripts   ![coverage](https://img.shields.io/badge/Bashscript-0%25-brightgreen)
-- [ ] chocosensuio                              ![coverage](https://img.shields.io/badge/json-0%25-success) ![coverage](https://img.shields.io/badge/c lang-0%25-success)
+- [ ] chocosensuio                              ![coverage](https://img.shields.io/badge/json-0%25-success) ![coverage](https://img.shields.io/badge/c-lang-0%25-success)
 
 ## Cyber Security Notes
 - [ ] Cyber Security Notes ![coverage](https://img.shields.io/badge/Notes/Resources/Scripts/Tools/Links-0%25-orange)
