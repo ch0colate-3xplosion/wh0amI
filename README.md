@@ -14,12 +14,12 @@ You can click the Preview link to take a look at your changes.
 My website is: https://www.chocolateexplosion.com
 
 Current Projects
-- [ ] Ch0c0DiscordBot
-- [ ] Ch0c0repons3-email 
+- [ ] Ch0c0DiscordBot ![coverage](https://img.shields.io/badge/Python-0%25-blue)
+- [ ] Ch0c0repons3-email ![coverage](https://img.shields.io/badge/Python-30%25-blue)
 - [ ] Linux-Autoupdate-Autoupgrade ![coverage](https://img.shields.io/badge/BashScript-80%25-green)
-- [ ] OS-Hardening-Script 
-- [ ] ch0colate-3xplosion 
-- [ ] Bypasses AV/EDR/XDR/MDR/EPP
-- [ ] ChocolatesWebApplication 
-- [ ] Ch0colatem3 
-- [ ] VM-Automation-Proxmox-Terraform-Scripts 
+- [ ] OS-Hardening-Script ![coverage](https://img.shields.io/badge/Bashscript-0%25-blueviolet)
+- [ ] ch0colate-3xplosion ![coverage](https://img.shields.io/badge/Bashscript-0%25-9cf)
+- [ ] Bypasses AV/EDR/XDR/MDR/EPP ![coverage](https://img.shields.io/badge/Bashscript-0%25-red)
+- [ ] ChocolatesWebApplication ![coverage](https://img.shields.io/badge/Bashscript-0%25-informational)
+- [ ] Ch0colatem3 ![coverage](https://img.shields.io/badge/Bashscript-0%25-yellowgreen)
+- [ ] VM-Automation-Proxmox-Terraform-Scripts ![coverage](https://img.shields.io/badge/Bashscript-0%25-brightgreen)
