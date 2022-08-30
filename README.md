@@ -25,4 +25,4 @@ My website is: https://www.chocolateexplosion.com
 - [ ] VM-Automation-Proxmox-Terraform-Scripts   ![coverage](https://img.shields.io/badge/Bashscript-0%25-brightgreen)
 
 ## Cyber Security Notes
-- [ ] Cyber Security Notes ![coverage](https://img.shields.io/badge/Notes/Resources/Scripts/Tools/Links-0%25-orange)
+- [ ] Cyber Security Notes ![coverage](https://img.shields.io/badge/Notes/Resources/Scripts/Tools/Links-0%-orange)
