@@ -19,7 +19,6 @@ My website is: https://www.chocolateexplosion.com
 - [ ] OS-Hardening-Script                       ![coverage](https://img.shields.io/badge/Bashscript-0%25-blueviolet) ![coverage](https://img.shields.io/badge/BAT-0%25-red) ![coverage](https://img.shields.io/badge/PowerShell-0%25-blueviolet)
 - [ ] ch0colate-3xplosion                       ![coverage](https://img.shields.io/badge/Bashscript-0%25-9cf)
 - [ ] Coding_Projects                           ![coverage](https://img.shields.io/badge/Programming-Ongoing-brightgreen)
-- [ ] chocosensuio                              ![coverage](https://img.shields.io/badge/json-0%25-success) ![coverage](https://img.shields.io/badge/clang-0%25-success)
 - [ ] chocosystemadmin                          ![coverage](https://img.shields.io/badge/Scripts-0%25-9cf)
 
 ## Cyber Security Scripts and Notes
