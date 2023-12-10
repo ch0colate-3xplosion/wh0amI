@@ -19,7 +19,7 @@ My website is: https://www.chocolateexplosion.com
 - [ ] OS-Hardening-Script                       ![coverage](https://img.shields.io/badge/Bashscript-0%25-blueviolet) ![coverage](https://img.shields.io/badge/PowerShell-0%25-blueviolet)
 - [ ] ch0colate-3xplosion                       ![coverage](https://img.shields.io/badge/Bashscript-0%25-9cf)
 - [ ] Ch0colatem3                               ![coverage](https://img.shields.io/badge/Bashscript-0%25-yellow)
-- [ ] Coding_Projects                           ![coverage](https://img.shields.io/badge/Bashscript-Ongoing-brightgreen)
+- [ ] Coding_Projects                           ![coverage](https://img.shields.io/badge/Programming-Ongoing-brightgreen)
 - [ ] chocosensuio                              ![coverage](https://img.shields.io/badge/json-0%25-success) ![coverage](https://img.shields.io/badge/clang-0%25-success)
 - [ ] Ch0c0DiscordBot                           ![coverage](https://img.shields.io/badge/Bashscript-0%25-9cf)
 
