@@ -20,7 +20,7 @@ My website is: https://www.chocolateexplosion.com
 - [ ] ch0colate-3xplosion                       ![coverage](https://img.shields.io/badge/Bashscript-0%25-9cf)
 - [ ] Coding_Projects                           ![coverage](https://img.shields.io/badge/Programming-Ongoing-brightgreen)
 - [ ] chocosensuio                              ![coverage](https://img.shields.io/badge/json-0%25-success) ![coverage](https://img.shields.io/badge/clang-0%25-success)
-- [ ] Ch0c0DiscordBot                           ![coverage](https://img.shields.io/badge/Bashscript-0%25-9cf)
+- [ ] chocosystemadmin                          ![coverage](https://img.shields.io/badge/Scripts-0%25-9cf)
 
 ## Cyber Security Scripts and Notes
 - [ ] Ch0colatem3 ![coverage](https://img.shields.io/badge/Bashscript-0%25-yellow)
