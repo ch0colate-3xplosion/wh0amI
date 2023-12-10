@@ -18,12 +18,12 @@ My website is: https://www.chocolateexplosion.com
 - [ ] Ch0c0repons3-email                        ![coverage](https://img.shields.io/badge/Python-30%25-yellowgreen)
 - [ ] OS-Hardening-Script                       ![coverage](https://img.shields.io/badge/Bashscript-0%25-blueviolet) ![coverage](https://img.shields.io/badge/BAT-0%25-red) ![coverage](https://img.shields.io/badge/PowerShell-0%25-blueviolet)
 - [ ] ch0colate-3xplosion                       ![coverage](https://img.shields.io/badge/Bashscript-0%25-9cf)
-- [ ] Ch0colatem3                               ![coverage](https://img.shields.io/badge/Bashscript-0%25-yellow)
 - [ ] Coding_Projects                           ![coverage](https://img.shields.io/badge/Programming-Ongoing-brightgreen)
 - [ ] chocosensuio                              ![coverage](https://img.shields.io/badge/json-0%25-success) ![coverage](https://img.shields.io/badge/clang-0%25-success)
 - [ ] Ch0c0DiscordBot                           ![coverage](https://img.shields.io/badge/Bashscript-0%25-9cf)
 
 ## Cyber Security Scripts and Notes
+- [ ] Ch0colatem3 ![coverage](https://img.shields.io/badge/Bashscript-0%25-yellow)
 - [ ] Cyber Security Notes ![coverage](https://img.shields.io/badge/Notes/Resources/Scripts/Tools/Links-0%25-orange)
 - [ ] System Administrator Notes ![coverage](https://img.shields.io/badge/Notes/Resources/Scripts/Tools/Links-0%25-orange)
 - [ ] Bypasses AV/EDR/XDR/MDR/EPP ![coverage](https://img.shields.io/badge/Bashscript-0%25-red)
