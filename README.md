@@ -25,5 +25,4 @@ My website is: https://www.chocolateexplosion.com
 ## Cyber Security Scripts and Notes
 - [ ] Ch0colatem3 ![coverage](https://img.shields.io/badge/Bashscript-0%25-yellow)
 - [ ] Cyber Security Notes ![coverage](https://img.shields.io/badge/Notes/Resources/Scripts/Tools/Links-0%25-orange)
-- [ ] System Administrator Notes ![coverage](https://img.shields.io/badge/Notes/Resources/Scripts/Tools/Links-0%25-orange)
 - [ ] Bypasses AV/EDR/XDR/MDR/EPP ![coverage](https://img.shields.io/badge/Bashscript-0%25-red)
